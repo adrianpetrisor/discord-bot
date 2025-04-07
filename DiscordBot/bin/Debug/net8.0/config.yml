@@ -1,0 +1,6 @@
+name: Discord Administration Bot
+version: 102
+features:
+- login
+- register
+- reset
